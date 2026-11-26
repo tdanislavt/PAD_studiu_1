@@ -1,0 +1,11 @@
+# Ignore folders (end with a slash)
+node_modules/
+build/
+__pycache__/
+
+# Ignore specific file types
+*.log
+*.tmp
+
+# Ignore secret environment files
+.env
